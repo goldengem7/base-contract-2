@@ -16,3 +16,5 @@ contract MyNameContract {
     }
 }
 
+//this is a simple contract to deploy your name onchain
+//you have to write your 
